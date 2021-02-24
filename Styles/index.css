@@ -8,11 +8,12 @@ background-size: cover;
     color: black;
     text-align: center;
     font-size: 3rem;
+    width: 70rem;
 }
 #divhead{
     position: absolute;
     left: 20rem;
-    width: 76%;
+    width: 70rem;
     border: black .3rem groove;
     top: 3rem;
     background-color:white;
